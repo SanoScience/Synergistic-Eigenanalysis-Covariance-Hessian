@@ -1,4 +1,4 @@
-# Synergistic-Eigenanalysis-Covariance-Hessian
+# Synergistic eigenanalysis of covariance and Hessian matrices for enhanced binary classification on health datasets
 
 https://doi.org/10.1016/j.compbiomed.2025.109985
 
